@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+[my blog](./another-page.html)
+[computer science projects](./another-page.html)
+[CV](./another-page.html)
+[art](./another-page.html).
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
