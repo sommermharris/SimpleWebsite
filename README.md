@@ -14,7 +14,7 @@
 
 [Regression for Modeling Covid-19 Data (For Machine Learning Class)](files/covid19.pdf)
 
-[Teaching Material: Handout sheet for lesson on K Nearest Neighbors](files/KNN.pdf)
+[Teaching Material: Handout sheet for lesson on K Nearest Neighbors](files/knn.pdf)
 
 ## My Blog
 
