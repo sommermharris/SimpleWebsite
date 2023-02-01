@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[my blog](./another-page.html)
+[my blog](./blog.html)
 
 [computer science projects](./another-page.html)
 
@@ -11,8 +11,6 @@ layout: default
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
