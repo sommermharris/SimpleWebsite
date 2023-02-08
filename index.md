@@ -2,9 +2,12 @@
 layout: default
 ---
 
-[blog](./another-page.html)
+[Blog](./another-page.html)
 
 [CV](./another-page.html)
+
+## Projects
+[United Way Hackathon: 3rd place](./united-way-hackathon.html)
 
 ## Published Papers
 
@@ -21,5 +24,3 @@ layout: default
 [Regression for Modeling Covid-19 Data (For Machine Learning Class)](files/covid19.pdf)
 
 [Teaching Material: Handout sheet for lesson on K Nearest Neighbors](files/knn.pdf)
-
-## My Blog
