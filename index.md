@@ -7,7 +7,8 @@ layout: default
 [CV](./another-page.html)
 
 ## Projects
-[United Way Hackathon: 3rd place](./united-way-hackathon.html)
+[United Way Hackathon: 3rd place](./projects/united-way-hackathon.html)
+[Sci-Fi VR Experience](./projects/sci-fi-vr.html)
 
 ## Published Papers
 
