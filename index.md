@@ -4,7 +4,7 @@ layout: default
 
 [Blog](./another-page.html)
 
-[CV](./another-page.html)
+[Resume](files/resume.pdf)
 
 ## Projects
 [United Way Hackathon 2022](./projects/united-way-hackathon.html)
