@@ -7,7 +7,7 @@ layout: default
 [CV](./another-page.html)
 
 ## Projects
-[United Way Hackathon: 3rd place](./projects/united-way-hackathon.html)
+[United Way Hackathon](./projects/united-way-hackathon.html)
 
 [Sci-Fi VR Experience](./projects/sci-fi-vr.html)
 
@@ -15,9 +15,11 @@ layout: default
 
 [Analysis of Infrastructure Cost and Reliability of Architecture Patterns for Deploying a Timetabling Application on Cloud](./projects/capstone.html)
 
-## Published Papers
+## Publications
 
 [Q-Learning Based Routing in Optical Networks 20](files/qlearning.pdf)
+
+Momenta
 
 ## Unpublished Papers
 
