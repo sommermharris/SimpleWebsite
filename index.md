@@ -11,7 +11,7 @@ layout: default
 
 [Sci-Fi VR Experience](./projects/sci-fi-vr.html)
 
-[Unethical Artificial Intelligence Data Visualization, Summer Research](./projects/data-vis.html)
+[Unethical Artificial Intelligence Data Visualization, Summer Research](https://sommerharris.github.io/)
 
 [Analysis of Infrastructure Cost and Reliability of Architecture Patterns for Deploying a Timetabling Application on Cloud](./projects/capstone.html)
 
