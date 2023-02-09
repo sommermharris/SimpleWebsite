@@ -17,6 +17,8 @@ layout: default
 
 [Uganda National Academy of Sciences Forum on the Nexus of Arts, Science, Humanities 2018](./projects/nash.html)
 
+[A listening guide to Beethoven's Third Symphony (Undergraduate Keystone Project)](./projects/keystone.html)
+
 ## Publications
 
 Author: [Q-Learning Based Routing in Optical Networks 2021](files/qlearning.pdf)
