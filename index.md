@@ -15,11 +15,13 @@ layout: default
 
 [Analysis of Infrastructure Cost and Reliability of Architecture Patterns for Deploying a Timetabling Application on Cloud 2022](./projects/capstone.html)
 
+[Uganda National Academy of Sciences Forum on the Nexus of Arts, Science, Humanities 2018](./projects/nash.html)
+
 ## Publications
 
-[Q-Learning Based Routing in Optical Networks 2021](files/qlearning.pdf)
+Author: [Q-Learning Based Routing in Optical Networks 2021](files/qlearning.pdf)
 
-Momenta
+Editor: [Momenta Undergraduate Academic Journal 2016](files/Momenta-2016.pdf)
 
 ## Unpublished Papers
 
@@ -32,3 +34,6 @@ Momenta
 [Regression for Modeling Covid-19 Data (For Machine Learning Class) 2021](files/covid19.pdf)
 
 [Teaching Material: Handout sheet for lesson on K Nearest Neighbors 2022](files/knn.pdf)
+
+## Features
+
