@@ -37,5 +37,3 @@ Editor: [Momenta Undergraduate Academic Journal 2016](files/Momenta-2016.pdf)
 
 [Teaching Material: Handout sheet for lesson on K Nearest Neighbors 2022](files/knn.pdf)
 
-## Features
-
