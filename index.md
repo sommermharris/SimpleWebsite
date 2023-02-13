@@ -33,7 +33,7 @@ Author: [Q-Learning Based Routing in Optical Networks 2021](files/qlearning.pdf)
 
 Editor: [Momenta Undergraduate Academic Journal 2016](files/Momenta-2016.pdf)
 
-## Unpublished Papers
+## Papers
 
 [Analysis of Infrastructure Cost and Reliability of Architecture Patterns for Deploying a Timetabling Application on Cloud 2022](files/capstone.pdf)
 
