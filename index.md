@@ -8,7 +8,7 @@ In 2022 I completed my Master's in Computer Science at Northeastern University i
 
 [Resume](files/resume.pdf)
 
-## Projects
+## Computer Science Projects
 [United Way Hackathon 2022](./projects/united-way-hackathon.html)
 
 [Sci-Fi VR Experience 2021](./projects/sci-fi-vr.html)
@@ -17,9 +17,15 @@ In 2022 I completed my Master's in Computer Science at Northeastern University i
 
 [Analysis of Infrastructure Cost and Reliability of Architecture Patterns for Deploying a Timetabling Application on Cloud 2022](./projects/capstone.html)
 
+More coming soon! In the meantime feel free to check out my [github.](https://github.com/sommerharris?tab=repositories)
+
+## Other Projects
+
 [Uganda National Academy of Sciences Forum on the Nexus of Arts, Science, Humanities 2018](./projects/nash.html)
 
 [A listening guide to Beethoven's Third Symphony (Undergraduate Keystone Project)](./projects/keystone.html)
+
+More coming soon!
 
 ## Publications
 
@@ -38,4 +44,6 @@ Editor: [Momenta Undergraduate Academic Journal 2016](files/Momenta-2016.pdf)
 [Regression for Modeling Covid-19 Data (For Machine Learning Class) 2021](files/covid19.pdf)
 
 [Teaching Material: Handout sheet for lesson on K Nearest Neighbors 2022](files/knn.pdf)
+
+More coming soon!
 
