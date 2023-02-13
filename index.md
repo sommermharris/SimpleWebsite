@@ -6,6 +6,8 @@ layout: default
 
 In 2022 I completed my Master's in Computer Science at Northeastern University in Vancouver, BC. I recieved my undergraduate degree in the Liberal Arts and Sciences from Quest University Canada in Squamish BC. I previously worked in education and am continuing my passion for inclusive education. I've worked as both a Teaching Assistant and a Student Ambassador at Northeastern University. In 2021 I completed a co-op as a Software Developer with a local real estate marketing firm in BC, Canada. Find my linkedin [here](https://www.linkedin.com/in/sommer-harris-824864103/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca). 
 
+I am also a wellness facilitator and musician who teaches yoga and expressive arts and performs music in the US and Canada.
+
 [Resume](files/resume.pdf)
 
 ## Computer Science Projects
