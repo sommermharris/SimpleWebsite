@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Welcome to my blog
+## Coming soon!
 [back](./)
 
-Enjoy my posts below!
+Please check back later, this section is currently under construction.
 
-[my blog](./blogposts/post1.html)
+
 
 
 
